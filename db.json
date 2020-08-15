@@ -1,11 +1,3 @@
 {
-  "data": {
-    "id": "personNickname",
-    "email": "internetEmail",
-    "gender": "personGender",
-    "last_login": {
-      "date_time": "dateTime|UNIX",
-      "ip4": "internetIP4"
-    }
-  }
+  
 }
