@@ -1,6 +1,16 @@
 { 
-  "admob": 
-     "admobenabled": "true",
+  "admob": [
+    { "admobenabled": "true",
       "showadmobinterstitialadonhome": "true",
-      "admobinterstitialadunitid": "ca-app-pub-3940256099942544/1033173712"
-  }
+      "admobinterstitialadunitid": "ca-app-pub-3940256099942544/1033173712"},
+     { "admobenabled": "true",
+      "showadmobinterstitialadonhome": "true",
+      "admobinterstitialadunitid": "ca-app-pub-3940256099942544/1033173712"},
+     { "admobenabled": "true",
+      "showadmobinterstitialadonhome": "true",
+      "admobinterstitialadunitid": "ca-app-pub-3940256099942544/1033173712"},
+     { "admobenabled": "true",
+      "showadmobinterstitialadonhome": "true",
+      "admobinterstitialadunitid": "ca-app-pub-3940256099942544/1033173712"},
+    ]
+}
